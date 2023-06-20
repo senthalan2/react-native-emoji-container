@@ -2,9 +2,9 @@
   "name": "react-native-emoji-container",
   "version": "1.0.0",
   "description": "Simple Emoji Picker for React Native Android and IOS",
-  "main": "lib/commonjs/index",
-  "module": "lib/module/index",
-  "types": "lib/typescript/index.d.ts",
+  "main": "src/index.js",
+  "module": "src/index",
+  "types": "src/index.d.ts",
   "react-native": "src/index",
   "source": "src/index",
   "files": [
