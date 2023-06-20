@@ -31,7 +31,7 @@ import EmojiContainer from 'react-native-emoji-container';
 | emojisContainerStyle | ViewStyle | No |
 | tabBarProps | `EmojiTabBarProps` | No |
 | mainContainerStyle | ViewStyle | No | { flex: 1, paddingVertical: 5 } |
-| singleEmojiContainerStyle | `ViewStyle` | No |
+| singleEmojiContainerStyle | ViewStyle | No |
 | emojisContainerWidth | number | No | Dimensions.get('window').width
 | numColumns | number | No | 8
 | activeOpacity | number | No | 0.7
