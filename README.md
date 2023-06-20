@@ -26,11 +26,11 @@ import EmojiContainer from 'react-native-emoji-container';
 | ----------------- | ------- | -------- | --------- | --------- |
 | initialSelectedCategory | `CategoriesTypes`  | No | `smileys_emotion` | Initial Emoji Category refere `CategoriesTypes`
 | enableTitle | boolean  | No | true |
-| titleTextStyle | `TextStyle`  | No | { fontSize: 16, color: '#000000' } |
-| titleContainerStyle | `ViewStyle` | No | { padding: 10 } |
-| emojisContainerStyle | `ViewStyle` | No |
+| titleTextStyle | TextStyle  | No | { fontSize: 16, color: '#000000' } |
+| titleContainerStyle | ViewStyle | No | { padding: 10 } |
+| emojisContainerStyle | ViewStyle | No |
 | tabBarProps | `EmojiTabBarProps` | No |
-| mainContainerStyle | `ViewStyle` | No | { flex: 1, paddingVertical: 5 } |
+| mainContainerStyle | ViewStyle | No | { flex: 1, paddingVertical: 5 } |
 | singleEmojiContainerStyle | `ViewStyle` | No |
 | emojisContainerWidth | number | No | Dimensions.get('window').width
 | numColumns | number | No | 8
