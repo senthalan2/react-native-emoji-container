@@ -1,3 +1,4 @@
+import React from "react";
 import { TextStyle, ViewStyle } from "react-native";
 declare module "react-native-emoji-container" {
 export enum Categories {
