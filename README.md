@@ -11,11 +11,11 @@ npm install react-native-emoji-container
 ## Usage
 
 ```js
-import { multiply } from 'react-native-emoji-container';
+import EmojiContainer from 'react-native-emoji-container';
 
 // ...
 
-const result = await multiply(3, 7);
+<EmojiContainer />
 ```
 
 ## Contributing
