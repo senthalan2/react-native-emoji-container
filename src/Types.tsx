@@ -33,12 +33,12 @@ export type EmojiProp = {
 
 export type EmojiTabBarProps = {
   onPressCategory?: (id: CategoriesTypes) => void;
+  scrollX: any;
+  numColumns?: number;
   selectedTabBackgroundColor?: string;
   unSelectedTabBackgroundColor?: string;
   singleTabStyle?: Omit<ViewStyle, 'backgroundColor'>;
   tabContainerStyle?: Omit<ViewStyle, 'flexDirection'>;
-  scrollX: any;
-  numColumns?: number;
   activeOpacity?: number;
 };
 
