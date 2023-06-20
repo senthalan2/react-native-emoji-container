@@ -20,7 +20,7 @@ import EmojiContainer from 'react-native-emoji-container';
 
 ## Props
 
-# EmojiPicker Props
+### EmojiPicker Props
 
 | Prop               | Type    | Required | Default   | Description |
 | ----------------- | ------- | -------- | --------- | --------- |
