@@ -27,7 +27,11 @@ import EmojiContainer from 'react-native-emoji-container';
 | initialSelectedCategory | `CategoriesTypes`  | No | `smileys_emotion` | Initial Emoji Category refere `CategoriesTypes`
 | enableTitle | boolean  | No | true |
 | titleTextStyle | `TextStyle`  | No | { fontSize: 16, color: '#000000' } |
-| titleContainerStyle| `ViewStyle` | No | { padding: 10 } |
+| titleContainerStyle | `ViewStyle` | No | { padding: 10 } |
+| emojisContainerStyle | `ViewStyle` | No |
+| tabBarProps | `EmojiTabBarProps` | No |
+| mainContainerStyle | `ViewStyle` | No | { flex: 1, paddingVertical: 5 } |
+
 
 ## Contributing
 
