@@ -16,6 +16,18 @@ Whether you want a continuous vertical scrolling list or a WhatsApp-style horizo
 - **Haptic Feedback:** Integrated vibration feedback on emoji selection.
 - **Category Management:** Rename categories, replace text labels with SVG icons, or change the default landing category.
 
+## 🎥 Demo 
+
+### Android 
+| Vertical | Horizontal |  
+| :---: | :---: |  
+| ![Vertical Orientation](https://github.com/senthalan2/react-native-emoji-container/blob/main/Assets/Android_Vertical.gif) | ![Horizontal Orientation](https://github.com/senthalan2/react-native-emoji-container/blob/main/Assets/Android_Horizontal.gif) |
+
+### iOS 
+| Vertical | Horizontal |  
+| :---: | :---: |  
+| ![Vertical Orientation](https://github.com/senthalan2/react-native-emoji-container/blob/main/Assets/IOS_Vertical.gif) | ![Horizontal Orientation](https://github.com/senthalan2/react-native-emoji-container/blob/main/Assets/IOS_Horizontal.gif) |
+
 ## 📦 Installation
 
 ```bash
